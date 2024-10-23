@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="global.css">
+    <script src="js/home.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1><a href="home.html">Suite Store</a></h1>
+        <ul>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="categories.html">Categories</a></li>
+            <li><a href="history.html">History</a></li>
+        </ul>
+    </header>
+    <main>
+        <section>
+            <h2>Home</h2>
+                <div class="home-input-field">
+                    <form id="home-form">
+                        <select name="home-produt-select" id="home-select-input" required>
+                            <option value="" disabled selected hidden>Product</option>
+                          </select>
+                        <div class="home-input-row">
+                            <input type="text" name="home-product-amount" id="home-amount-input" placeholder="Amount" autocomplete="off" required>
+                            <input type="text" name="home-product-tax" placeholder="Tax" readonly id="home-tax-input">
+                            <input type="text" name="home-product-price" placeholder="Price" readonly id="home-price-input">
+                        </div>
+                        <button class="main-button-style" type="submit">Add Product</button>
+                    </form>
+                </div>
+        </section>
+        <div class="horizontal-line"></div>
+        <aside>
+            <table>
+                <tbody id="home-table">
+                    <tr>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Amount</th>
+                        <th>Total</th>
+                        <th></th>
+                    </tr>
+                </tbody>
+            </table>
+            <div>
+                <div class="aside-bottom-info">
+                    <div class="home-value-info">
+                        <span><strong>Tax:</strong><span class="tax-totals">0</span></span>
+                        <span><strong>Total</strong><span class="totals">0</span></span>
+                    </div>
+                    <div class="home-aside-buttons">
+                        <button class="delete-button-style" id="home-cancel-button">Cancel</button>
+                        <button class="main-button-style" id="home-finish-button">Finish</button>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </main>
+</body>
+</html>

@@ -1,0 +1,51 @@
+@import url(css/header.css);
+@import url(css/table.css);
+@import url(css/inputs.css);
+
+:root {
+    --primary-color: #9898eb;
+    --text-primary-color: #0a0a0a;
+}
+
+body {
+    background-color: #FFFFFF;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+main {
+    display: flex;
+    margin: 2em;
+    position: relative;
+}
+
+.horizontal-line {
+    width: 1px;
+    background-color: var(--table-border-color);
+    height: 80vh;
+}
+
+section, aside {
+    width: 50%;
+    padding: 2em;
+}
+
+h2 {
+    font-size: 1.7em;
+}
+
+aside {
+    position: relative;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+

@@ -1,0 +1,24 @@
+:root {
+    --table-border-color: #bbadadcc;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td, th {
+    border-bottom: 1px solid var(--table-border-color);
+    padding: 0.5em;
+}
+
+.history-table {
+    margin: 2%;
+}
+
+caption {
+    font-size: 1.5em;
+    margin-bottom: 1.5em;
+    font-weight: bold;
+}

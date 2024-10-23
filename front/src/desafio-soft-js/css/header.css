@@ -1,0 +1,24 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: var(--primary-color);
+    padding: 0.5em 0 0.5em 2em;
+    gap: 2em;
+    font-size: 1.1em;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 1em;
+}
+
+li {
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-primary-color);
+}

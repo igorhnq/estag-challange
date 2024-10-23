@@ -1,0 +1,110 @@
+:root {
+    --input-background-color: #ada7a71a;
+    --input-placeholder-text-color: #6f6c70d3;
+}
+
+input, button, select {
+    font-size: 1.2em;
+    padding: 0.3em;
+    outline: none;
+    border: 1px solid var(--table-border-color);
+    border-radius: 0.2em;
+    font-weight: 500;
+}
+
+input::placeholder {
+    color: var(--input-placeholder-text-color);
+}
+
+input {
+    background-color: var(--input-background-color);
+}
+
+select {
+    color: var(--input-placeholder-text-color);
+    width: 100%;
+    background-color: var(--input-background-color);
+}
+
+select:valid, option {
+    color: black;
+}
+
+.home-value-info {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2em;
+}
+
+.tax-totals,  .totals {
+    padding-left: 0.2em;
+}
+
+.home-aside-buttons {
+    display: flex;
+    gap: 0.5em;
+}
+
+.main-button-style {
+    width: 100%;
+    background-color: var(--primary-color);
+    border: none;
+    font-weight: 500;
+}
+
+.home-aside-buttons button {
+   width: 10rem;
+}
+
+.categories-input-row {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+button:hover {
+    cursor: pointer;
+} 
+
+.aside-bottom-info {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.home-input-field {
+    display: flex;
+    flex-direction: column;
+}
+
+#home-select-input {
+    margin-bottom: 0.5em;
+}
+
+#home-amount-input {
+    width: 50%;
+}
+
+.home-input-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+    margin-bottom: 0.5em;
+}
+
+#home-tax-input, #home-price-input {
+    width: 30%;
+    color: black;
+}
+
+.delete-button-style {
+    background-color: #d84141;
+    color: #ffff;
+}
+
+.history-view-button {
+    background-color: var(--primary-color);
+}
+

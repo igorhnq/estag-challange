@@ -1,30 +1,26 @@
-
 <?php
-error_log('Sou um log');
-echo "Olá mundo";
 
+header ('Access-Control-Allow-Methods: GET, POST, DELETE, PUT');
+header ('Access-Control-Allow-Origin: *');
+header ('Access-Control-Allow-Headers: *');
+header ('Content-Type: application/json');
 
-$host = "pgsql_desafio";
-$db = "applicationphp";
-$user = "root";
-$pw = "root";
+require_once("Connection.php");
 
-$myPDO = new PDO("pgsql:host=$host;dbname=$db", $user, $pw);
+if ($_SERVER['REQUEST_URI'] === '/categories' || strpos($_SERVER['REQUEST_URI'], '/categories?code=') === 0) {
+    require_once("Routes/CategoriesRoute.php");
+}
 
-// exemplo de insert
-$statement = $myPDO->prepare("INSERT INTO mytable (DESCRIPTION) VALUES ('TEST PHP')");
-$statement->execute();
+if ($_SERVER['REQUEST_URI'] === '/products' || strpos($_SERVER['REQUEST_URI'], '/products?code=') === 0) {
+    require_once("Routes/ProductsRoute.php");
+}
 
-// exemplo de fetch
-$statement1 = $myPDO->query("SELECT * FROM mytable");
-$data = $statement1->fetch();
+if ($_SERVER['REQUEST_URI'] === '/orderitems' || strpos($_SERVER['REQUEST_URI'], '/orderitems?code=') === 0) {
+    require_once("Routes/OrderItemsRoute.php");
+}
 
-echo "<br>";
-print_r($data);
+if ($_SERVER['REQUEST_URI'] === '/orders' || strpos($_SERVER['REQUEST_URI'], '/orders?code=') === 0) {
+    require_once("Routes/OrdersRoute.php");
+}
 
-// exemplo de fetch2
-$statement2 = $myPDO->query("SELECT * FROM mytable");
-$data2 = $statement2->fetchALL();
-
-echo "<br>";
-print_r($data2);
+?>

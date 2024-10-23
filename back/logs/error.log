@@ -1,0 +1,107 @@
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 12:50:38.741247 2024] [php:notice] [pid 24] [client 172.19.0.1:38106] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 12:57:52.183589 2024] [php:notice] [pid 17] [client 172.19.0.1:55270] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:00:06.843586 2024] [php:notice] [pid 22] [client 172.19.0.1:41162] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:00:11.802603 2024] [php:notice] [pid 22] [client 172.19.0.1:41162] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:00:41.276649 2024] [php:notice] [pid 21] [client 172.19.0.1:46334] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:00:54.411152 2024] [php:notice] [pid 19] [client 172.19.0.1:44974] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:00:57.785612 2024] [php:notice] [pid 22] [client 172.19.0.1:44986] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:01:01.930816 2024] [php:notice] [pid 18] [client 172.19.0.1:45004] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:03:31.336541 2024] [php:notice] [pid 19] [client 172.19.0.1:40624] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:03:55.784146 2024] [php:notice] [pid 17] [client 172.19.0.1:52376] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:04:00.961118 2024] [php:notice] [pid 18] [client 172.19.0.1:52412] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:04:01.600332 2024] [php:notice] [pid 18] [client 172.19.0.1:52412] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:04:06.921801 2024] [php:notice] [pid 17] [client 172.19.0.1:44178] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:04:07.334214 2024] [php:notice] [pid 17] [client 172.19.0.1:44178] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:21:26.721975 2024] [php:notice] [pid 18] [client 172.19.0.1:53148] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:21:32.641963 2024] [php:notice] [pid 24] [client 172.19.0.1:53162] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 13:35:51.929674 2024] [php:notice] [pid 21] [client 172.19.0.1:55424] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:33:19.056830 2024] [php:notice] [pid 24] [client 172.19.0.1:55040] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:33:50.762088 2024] [php:notice] [pid 20] [client 172.19.0.1:59746] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:33:58.650331 2024] [php:notice] [pid 20] [client 172.19.0.1:59746] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:34:14.381849 2024] [php:notice] [pid 18] [client 172.19.0.1:51562] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:35:15.145097 2024] [php:notice] [pid 17] [client 172.19.0.1:38440] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:35:17.234870 2024] [php:notice] [pid 17] [client 172.19.0.1:38440] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:36:36.394598 2024] [php:notice] [pid 19] [client 172.19.0.1:52890] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:37:18.190798 2024] [php:notice] [pid 22] [client 172.19.0.1:48040] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:37:41.535559 2024] [php:notice] [pid 17] [client 172.19.0.1:53484] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:42:34.877082 2024] [php:notice] [pid 18] [client 172.19.0.1:59290] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:43:08.779541 2024] [php:notice] [pid 17] [client 172.19.0.1:44562] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:43:10.564995 2024] [php:notice] [pid 17] [client 172.19.0.1:44562] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:43:12.708277 2024] [php:notice] [pid 17] [client 172.19.0.1:44562] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:57:56.187477 2024] [php:notice] [pid 20] [client 172.19.0.1:35182] step 2
+sh: 1: /usr/sbin/sendmail: not found
+[Thu Oct 10 16:57:59.043934 2024] [php:notice] [pid 20] [client 172.19.0.1:35182] step 2
+[Thu Oct 10 17:50:08.715831 2024] [php:notice] [pid 19] [client 172.19.0.1:34726] step 2
+[Thu Oct 10 17:50:08.834411 2024] [php:notice] [pid 19] [client 172.19.0.1:34726] step 2
+[Thu Oct 10 18:06:59.199474 2024] [php:notice] [pid 19] [client 172.19.0.1:51262] step 2
+[Thu Oct 10 18:07:03.684444 2024] [php:notice] [pid 22] [client 172.19.0.1:51276] step 2
+[Thu Oct 10 18:07:21.718730 2024] [php:notice] [pid 18] [client 172.19.0.1:46064] step 2
+[Thu Oct 10 18:07:25.076461 2024] [php:notice] [pid 18] [client 172.19.0.1:46064] step 2
+[Thu Oct 10 18:07:29.400388 2024] [php:notice] [pid 21] [client 172.19.0.1:40636] step 2
+[Thu Oct 10 18:07:29.951511 2024] [php:notice] [pid 21] [client 172.19.0.1:40636] step 2
+[Thu Oct 10 18:08:53.790827 2024] [php:notice] [pid 19] [client 172.19.0.1:54210] step 2
+[Thu Oct 10 18:08:56.839146 2024] [php:notice] [pid 23] [client 172.19.0.1:54374] step 2
+[Thu Oct 10 18:09:01.160084 2024] [php:notice] [pid 18] [client 172.19.0.1:54394] step 2
+[Thu Oct 10 18:09:02.574021 2024] [php:notice] [pid 18] [client 172.19.0.1:54394] step 2
+[Thu Oct 10 18:09:45.056470 2024] [php:notice] [pid 24] [client 172.19.0.1:49512] step 2
+[Thu Oct 10 18:09:50.375645 2024] [php:notice] [pid 17] [client 172.19.0.1:49528] step 2
+[Thu Oct 10 18:13:47.181718 2024] [php:notice] [pid 20] [client 172.19.0.1:45592] step 2
+[Fri Oct 11 12:45:20.292167 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 11 12:45:28.979631 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Fri Oct 11 12:45:28.979803 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 11 13:25:57.638940 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 11 13:27:36.663508 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Fri Oct 11 13:27:36.663570 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 11 13:29:58.329183 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 11 13:30:05.021353 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Fri Oct 11 13:30:05.021408 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 11 13:32:53.971674 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 11 13:33:05.739895 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Fri Oct 11 13:33:05.739952 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 14 11:24:22.222812 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 14 11:24:36.658985 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Mon Oct 14 11:24:36.659065 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 18 18:16:16.506010 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 18 18:16:29.532691 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Fri Oct 18 18:16:29.532747 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 21 11:11:11.517395 2024] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 23 11:49:44.386505 2024] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Wed Oct 23 11:49:44.386563 2024] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
